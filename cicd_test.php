@@ -1,4 +1,4 @@
 <?php 
 echo "CI/CD pipeline test\n";
-echo "CI/CD test v1\n";
+echo "PHPファイル修正\n";
 ?>
